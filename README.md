@@ -116,7 +116,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Snake
 
-![snake gif](https://github.com/khalidrahmanhanify/khalidrahmanhanify/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/khalidrahmanhanify/khalidrahmanhanify/blob/output/github-snake-dark.svg)
 
 
 
